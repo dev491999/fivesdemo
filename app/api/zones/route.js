@@ -1,4 +1,4 @@
-
+export const dynamic = 'force-dynamic'
 import { MongoClient } from 'mongodb'
 import { getServerSession } from 'next-auth/next'
 

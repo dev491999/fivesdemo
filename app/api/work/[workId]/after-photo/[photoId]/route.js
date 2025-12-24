@@ -1,4 +1,4 @@
-
+export const dynamic = 'force-dynamic'
 import { MongoClient, ObjectId } from 'mongodb'
 import { unlink } from 'fs/promises'
 import path from 'path'

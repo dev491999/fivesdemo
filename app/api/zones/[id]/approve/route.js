@@ -1,3 +1,4 @@
+export const dynamic = 'force-dynamic'
 import { MongoClient, ObjectId } from 'mongodb'
 import nodemailer from 'nodemailer'
 
